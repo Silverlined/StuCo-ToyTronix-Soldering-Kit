@@ -28,4 +28,3 @@ ToyTronix - a soldering kit for young children. The idea was inspired by [Shawn 
   margin-left: auto;
   margin-right: auto;
   width: 50%;"/>
-
